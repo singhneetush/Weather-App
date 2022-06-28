@@ -1,10 +1,8 @@
-### \*\*\* Simple Weather App
+### Simple Weather App
 
-## \*\*Made Using
+## Made Using
 
-# \*HTML,CSS,Vanilla JS
-
-![Snapshot of the Weather-App](/home/neetu/Pictures/Snapshot.png)
+# HTML,CSS,Vanilla JS
 
 ### Live Demonstration of the project
 
