@@ -1,8 +1,8 @@
-### Simple Weather App
+# Simple Weather App
 
 ## Made Using
 
-# HTML,CSS,Vanilla JS
+### HTML,CSS,Vanilla JS
 
 ### Live Demonstration of the project
 
